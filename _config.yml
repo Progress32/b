@@ -7,10 +7,6 @@ title: Progress 2032
 url-pretty: "http://www.Progress32.org"
 rss-description: Progress32 Blog RSS
 
-excerpt_length: 50
-feed_show_excerpt: true
-feed_show_tags: true
-post_search: true
 
 defaults:
   -
@@ -24,6 +20,3 @@ defaults:
       path: ""
     values:
       layout: "page"
-
-exclude:
-  - README.md

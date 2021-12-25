@@ -4,6 +4,7 @@ theme: jekyll-theme-minimal
 permalink: /:year-/:title/
 
 title: Progress 2032
+description: [Hello 2032!]
 url-pretty: "http://www.Progress32.org"
 rss-description: Progress32 Blog RSS
 
